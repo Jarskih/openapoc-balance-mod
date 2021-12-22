@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<openapoc_modinfo>
+  <name>BalanceMod</name>
+  <author>Jarskih</author>
+  <version>1</version>
+  <description>
+    Adjusts the economy, items and vehicles of the game bit more challenging.
+  </description>
+  <link></link>
+  <id>org.openapoc.mods.Jarskih.balancemod</id>
+  <datapath>data</datapath>
+  <statepath>gamestate_patch</statepath>
+  <minversion>0.2.0.2-12</minversion>
+  <requires>
+    <entry>org.openapoc.base</entry>
+  </requires>
+  <conflicts/>
+</openapoc_modinfo>

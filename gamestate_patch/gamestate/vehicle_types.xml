@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicle_types>
+   <entry>
+    <key>VEHICLETYPE_VALKYRIE_INTERCEPTOR</key>
+    <value>
+    	<passengers>0</passengers>
+    </value>
+  </entry>
+  <entry>
+    <key>VEHICLETYPE_PHOENIX_HOVERCAR</key>
+    <value>
+    	<passengers>0</passengers>
+    </value>
+  </entry>
+  <entry>
+    <key>VEHICLETYPE_HOVERBIKE</key>
+    <value>
+    	<passengers>0</passengers>
+    </value>
+  </entry>
+  <entry>
+    <key>VEHICLETYPE_HAWK_AIR_WARRIOR</key>
+    <value>
+    	<passengers>0</passengers>
+    </value>
+  </entry>
+</vehicle_types>
