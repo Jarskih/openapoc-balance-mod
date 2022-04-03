@@ -5,7 +5,7 @@ Instructions (copied from extended weapons mod):
 
 Extract/Copy the "openapoc-balance-mod" folder to your "<<openapoc install>>\data\mods\" folder. This should create something like:
 
-C:\Program Files\OpenApoc\data\mods\extended weapons mod\<<MOD CONTENT>>
+C:\Program Files\OpenApoc\data\mods\openapoc-balance-mod\<<MOD CONTENT>>
 
 Without the stuff in between << >> of course
 
